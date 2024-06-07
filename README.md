@@ -1,1 +1,5 @@
-Shows bug
+```
+git clone
+npm install
+tsc
+```
